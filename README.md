@@ -1,4 +1,4 @@
-1. Decomposing Changes in Net Foreign Assets (NFA)
+Decomposing Changes in Net Foreign Assets (NFA)
 We begin by decomposing the change in Switzerland’s NFA position into two main components:
 ΔNFAₜ = CAₜ + VEₜ
 Where:
