@@ -6,3 +6,4 @@ Where:
 	CAₜ:  Current account balance
 	VEₜ:  Valuation effects (including capital gains/losses and exchange rate impacts)
 This decomposition allows us to ask: Is Switzerland’s NFA improving due to persistent current account surpluses, or is it earning superior returns on its external assets?
+VA_comparision_FX.png
