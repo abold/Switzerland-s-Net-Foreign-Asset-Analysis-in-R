@@ -1,3 +1,4 @@
+Data from Swiss National Bank (SNB). https://www.snb.ch/de/
 Decomposing Changes in Net Foreign Assets (NFA)
 We begin by decomposing the change in Switzerland’s NFA position into two main components:
 ΔNFAₜ = CAₜ + VEₜ
